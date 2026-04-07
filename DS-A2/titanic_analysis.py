@@ -3,12 +3,11 @@
 # =============================================================================
 
 # ── 1. Imports ────────────────────────────────────────────────────────────────
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+import pandas as pd # type: ignore
+import numpy as np # type: ignore
+import matplotlib.pyplot as plt # type: ignore
+import seaborn as sns # type: ignore
 import warnings
-
 warnings.filterwarnings('ignore')
 
 # ── 2. Reproducibility ────────────────────────────────────────────────────────
